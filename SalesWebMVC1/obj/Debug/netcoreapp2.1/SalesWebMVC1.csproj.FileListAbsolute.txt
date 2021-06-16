@@ -119,3 +119,4 @@ C:\Users\elvis\Documents\Projeto ASPNET-Core-MVC\SalesWebMVC1\obj\Debug\netcorea
 C:\Users\elvis\Documents\Projeto ASPNET-Core-MVC\SalesWebMVC1\obj\Debug\netcoreapp2.1\SalesWebMVC1.pdb
 C:\Users\elvis\Documents\Projeto ASPNET-Core-MVC\SalesWebMVC1\obj\Debug\netcoreapp2.1\SalesWebMVC1.genruntimeconfig.cache
 C:\Users\elvis\Documents\Projeto ASPNET-Core-MVC\SalesWebMVC1\obj\Debug\netcoreapp2.1\SalesWebMVC1.csproj.CopyComplete
+C:\Users\elvis\Documents\Projeto ASPNET-Core-MVC\SalesWebMVC1\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
